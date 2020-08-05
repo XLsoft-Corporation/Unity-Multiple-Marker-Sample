@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/Multiple Marker Sample Scene.unity
     guid: 6b63d99c246ca4b76bf1bc1e7e1ee13d
   m_configObjects: {}
