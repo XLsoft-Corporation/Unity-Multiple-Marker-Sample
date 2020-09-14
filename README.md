@@ -1,6 +1,6 @@
 # Unity-Multiple-Marker-Sample
 
-A demonstration of implementing multiple markers using Unity and KudanAR SDK
+A demonstration of implementing multiple markers using Unity and KudanAR SDK (Compatible with Unity 2018.x)
 
 ## Instructions
 
